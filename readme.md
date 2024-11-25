@@ -120,3 +120,6 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+Button | Button for "See Offers" | https://getbootstrap.com/docs/5.3/components/buttons/
+Footer | Footer for all pages | https://mdbootstrap.com/docs/standard/navigation/footer/
