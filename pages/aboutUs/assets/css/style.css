@@ -6,3 +6,46 @@
 }
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.about
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 5rem;
+
+.head1
+{
+    margin: 3rem;
+}
+
+.head2
+{
+    margin: 3cqb;
+}
+
+.head3
+{
+    margin: 3rem;
+}
+
+.para1
+{
+    margin: 3rem;
+    font-size: larger;
+    line-height: 2rem;
+}
+
+.para2
+{
+    margin: 3rem;
+    font-size: larger;
+    line-height: 2rem;
+}
+
+.para3
+{
+    margin: 3rem;
+    font-size: larger;
+    line-height: 2rem;
+}
+}
