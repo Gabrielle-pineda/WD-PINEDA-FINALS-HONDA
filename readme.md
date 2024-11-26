@@ -124,3 +124,4 @@ WD-ProjectName
 Button | Button for "See Offers" | https://getbootstrap.com/docs/5.3/components/buttons/
 Footer | Footer for all pages | https://mdbootstrap.com/docs/standard/navigation/footer/
 Product Cards | Button for Product Cards | https://mdbootstrap.com/docs/standard/extended/product-cards/
+Navbar | Navigation Bar | https://mdbootstrap.com/docs/standard/navigation/navbar/
