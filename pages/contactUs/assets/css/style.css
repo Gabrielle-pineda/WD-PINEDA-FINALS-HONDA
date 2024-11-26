@@ -6,3 +6,25 @@
 }
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.nav-item
+{
+    font-size: 1.5rem;
+    padding-right: 1rem;
+}
+
+.nav-icon
+{
+    padding-right: 1rem;
+}
+
+.container
+{
+    margin: 5rem;
+}
+
+.question
+{
+    text-align: center;
+    margin: 3rem;
+}

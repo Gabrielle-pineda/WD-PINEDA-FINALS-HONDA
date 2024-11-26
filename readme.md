@@ -122,6 +122,11 @@ WD-ProjectName
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
 
 Button | Button for "See Offers" | https://getbootstrap.com/docs/5.3/components/buttons/
+
 Footer | Footer for all pages | https://mdbootstrap.com/docs/standard/navigation/footer/
+
 Product Cards | Button for Product Cards | https://mdbootstrap.com/docs/standard/extended/product-cards/
+
 Navbar | Navigation Bar | https://mdbootstrap.com/docs/standard/navigation/navbar/
+
+Contact Form | Contact Form for Contact Us page | https://www.reusableforms.com/f/contact-form-in-bootstrap/obnfe8uh/
