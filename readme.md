@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/hondaLogoWhite.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Final Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Car Company Website Mockup
 </div>
 
 <br />
@@ -57,28 +57,16 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+This is the Final Project for CCS0027. The purpose of this project is to create a responsive website of the chosen company type of each group, this being a Car Company. The key components of the website is that it is multipage, featuring a hero, an About Us page, a Contact Us page, and 3 different sample product pages. The technology utilized are HTML, CSS, and Bootstrap for responsive functionality.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
 
 ### Technology
-<!-- TODO: List of Technology Used -->
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrapt-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -115,11 +103,6 @@ WD-ProjectName
 ```
 
 ## Resources
-
-<!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
 
 Button | Button for "See Offers" | https://getbootstrap.com/docs/5.3/components/buttons/
 

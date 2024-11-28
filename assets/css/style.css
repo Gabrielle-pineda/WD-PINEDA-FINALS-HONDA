@@ -21,15 +21,9 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 .bghero
 {
     background-image: url(../img/hondaOdysseyHero.jpg);
-    background-position: auto;
+    background-position: center top;
     background-repeat: no-repeat;
     background-size: 100rem;
-}
-
-.heromain
-{
-    position: center;
-    margin: 7rem;
 }
 
 .footerhero
@@ -39,6 +33,9 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 
 .heromain
 {
+    position: center;
+    margin: 7rem;
+
     .head1
     {
         margin-bottom: 2rem;
