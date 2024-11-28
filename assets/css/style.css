@@ -28,5 +28,27 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     text-align: center;
     margin: 2rem;
     margin-bottom: 3rem;
-    font-size: 500rem;
+
+.new
+{
+    font-size: 50px;
+}
+
+.h1
+{
+    text-size-adjust: 20rem;
+    font-kerning: 5rem;
+}
+
+}
+
+.subhead
+{
+    text-align: center;
+    z-index: 50rem;
+}
+
+.button
+{
+    text-align: center;
 }

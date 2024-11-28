@@ -17,3 +17,10 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 {
     padding-right: 1rem;
 }
+
+.info
+{
+    text-align: left;
+    font-size: larger;
+    margin: 2rem;
+}
