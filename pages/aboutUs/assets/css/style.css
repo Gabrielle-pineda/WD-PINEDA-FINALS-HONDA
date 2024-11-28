@@ -20,7 +20,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 
 .head2
 {
-    margin: 3cqb;
+    margin: 3rem;
 }
 
 .head3
@@ -59,4 +59,10 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 .nav-icon
 {
     padding-right: 1rem;
+}
+
+.bgaboutus
+{
+    background-image: url(../img/greyBG.png);
+    background-position: center;
 }

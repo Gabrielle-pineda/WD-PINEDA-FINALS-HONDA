@@ -17,3 +17,16 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 {
     padding-right: 1rem;
 }
+
+.img
+{
+    position: center;
+}
+
+.newhonda
+{
+    text-align: center;
+    margin: 2rem;
+    margin-bottom: 3rem;
+    font-size: 500rem;
+}
