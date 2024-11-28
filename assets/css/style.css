@@ -18,37 +18,50 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     padding-right: 1rem;
 }
 
-.img
+.bghero
+{
+    background-image: url(../img/hondaOdysseyHero.jpg);
+    background-position: auto;
+    background-repeat: no-repeat;
+    background-size: 100rem;
+}
+
+.heromain
 {
     position: center;
+    margin: 7rem;
 }
 
-.newhonda
+.footerhero
 {
-    text-align: center;
-    margin: 2rem;
-    margin-bottom: 3rem;
+    margin-top: 5rem;
+}
 
-.new
+.heromain
 {
-    font-size: 50px;
+    .head1
+    {
+        margin-bottom: 2rem;
+        font-size: smaller;
+        line-height: 2rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    .head2
+    {
+        margin-bottom: 3rem;
+        font-size: xx-large;
+        line-height: 2rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    .subhead
+    {
+        margin-bottom: 3rem;
+        font-size: smaller;
+        line-height: 2rem;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
 }
 
-.h1
-{
-    text-size-adjust: 20rem;
-    font-kerning: 5rem;
-}
-
-}
-
-.subhead
-{
-    text-align: center;
-    z-index: 50rem;
-}
-
-.button
-{
-    text-align: center;
-}

@@ -130,3 +130,5 @@ Product Cards | Button for Product Cards | https://mdbootstrap.com/docs/standard
 Navbar | Navigation Bar | https://mdbootstrap.com/docs/standard/navigation/navbar/
 
 Contact Form | Contact Form for Contact Us page | https://www.reusableforms.com/f/contact-form-in-bootstrap/obnfe8uh/
+
+Hero | Used for template of hero | https://mdbootstrap.com/docs/standard/extended/hero/
