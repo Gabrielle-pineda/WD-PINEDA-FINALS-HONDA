@@ -104,6 +104,8 @@ WD-ProjectName
 
 ## Resources
 
+| Title | Purpose | Link |
+|-|-|-|
 Button | Button for "See Offers" | https://getbootstrap.com/docs/5.3/components/buttons/
 
 Footer | Footer for all pages | https://mdbootstrap.com/docs/standard/navigation/footer/
